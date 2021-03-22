@@ -1,0 +1,49 @@
+
+1000 string by copy
+Mon Mar 22 11:15:56 2021
+
+Configuration: DEBUG
+Time in microseconds: 433267
+Time in milliseconds: 433.267
+Time in seconds: 0.433267
+-----------------------------------------
+1000 string by ref
+Mon Mar 22 11:15:56 2021
+
+Configuration: DEBUG
+Time in microseconds: 332202
+Time in milliseconds: 332.202
+Time in seconds: 0.332202
+-----------------------------------------
+10000 non-constant int
+Mon Mar 22 11:19:52 2021
+
+Configuration: DEBUG
+Time in microseconds: 643255
+Time in milliseconds: 643.255
+Time in seconds: 0.643255
+-----------------------------------------
+10000 constant int
+Mon Mar 22 11:19:53 2021
+
+Configuration: DEBUG
+Time in microseconds: 690236
+Time in milliseconds: 690.236
+Time in seconds: 0.690236
+-----------------------------------------
+10000 non-constant int
+Mon Mar 22 11:20:11 2021
+
+Configuration: RELEASE
+Time in microseconds: 695606
+Time in milliseconds: 695.606
+Time in seconds: 0.695606
+-----------------------------------------
+10000 constant int
+Mon Mar 22 11:20:11 2021
+
+Configuration: RELEASE
+Time in microseconds: 557327
+Time in milliseconds: 557.327
+Time in seconds: 0.557327
+-----------------------------------------
